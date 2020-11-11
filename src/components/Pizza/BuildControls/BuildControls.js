@@ -17,7 +17,7 @@ const buildControls = (props) => (
   // using const-Ingredients
   // why? curly bracket?
   <div>
-    <p>Current Price: {props.price}</p>
+    <p id="currentPrice">Current Price: {props.price}</p>
     {Ingredients.map((ingredient) => (
       <BuildControl
         label={ingredient.type}

@@ -18,7 +18,7 @@ class OrderSummary extends Component {
 
             <Aux>
             <h3>Your Order</h3>
-                <p>A delicious burger with the following ingredients:</p>
+                <p>A delicious pizza with the following ingredients:</p>
             <ul>
             {ingredientSummary}
             </ul>
