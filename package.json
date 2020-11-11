@@ -2,7 +2,7 @@
   "name": "pizza_creator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://username.github.io/pizza-creator",
+  "homepage": "http://sujijava.github.io/pizza-creator",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
