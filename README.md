@@ -5,3 +5,4 @@ API: Getting user’s location with geo-location API and determining if they are
 UI Design: Displaying corresponding ingredient icons as a user clicks +/- button
 Database: Storing each order made to the firebase database
 Technology: #ReactJS, #JavaScript, #ES6, #Firebase, #API, #Bootstrap
+Deployed at: https://https-react-pizza-builde-c56a4.firebaseapp.com/ 
